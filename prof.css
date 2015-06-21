@@ -1,0 +1,52 @@
+.bodyback{
+	background-color: black;
+}
+.myfont{
+	font-size: 20px;
+	background-color: black;
+	padding: 30px;
+	margin-top: 50px
+}
+.myfont2{
+	font-size: 20px;
+	background-color: black;
+	padding: 30px;
+}
+.backimg{
+	background: url("1-freedom-personal.jpg");
+	background-size: cover;
+	height:800px;
+}
+.propic{
+	background: url("images.jpg");
+	height: 150px;
+	background-repeat: no-repeat;
+	position: relative;
+	top:175px;
+}
+.name{
+	padding-top: 55px;
+    font-size: 30px;
+    color: white;
+}
+.contact a{
+	color:#EB21F0;
+}
+.contact{
+	color:#EB21F0;
+}
+.second hr{
+	margin-top: 60px;
+}
+.sectionTitle {
+  float: left;
+  width: 25%;
+  color:#EB21F0;
+}
+.sectionContent {
+  float: right;
+  font-size: 19px;	
+  width: 72.5%;
+  color:white;
+  padding-top: 15px;
+}
